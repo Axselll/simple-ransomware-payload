@@ -1,4 +1,4 @@
-# Custom ransomware payload
+# Simple ransomware payload
 
 ## learning purposes
 ### decryptor not available
